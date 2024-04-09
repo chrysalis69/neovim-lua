@@ -8,6 +8,9 @@ Based upon Lazy package manager, with extra tools like:
 * `harpoon` for jumping between files
 
 ## Installing
+Install Jetbrains Mono font and configure your terminal to use it so that icons work properly.
+[Jetbrains Mono](https://www.jetbrains.com/lp/mono/#how-to-install)
+
 Clone into neovim config dir.
 ```shell
 git clone git@github.com:chrysalis69/neovim-lua.git ~/.config/nvim
