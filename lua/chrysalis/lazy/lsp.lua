@@ -32,7 +32,7 @@ return {
 		"terraformls",
 		"ansiblels",
 		"yamlls",
-	        "kotlin-language-server"
+	        "kotlin_language_server"
             },
             handlers = {
                 function(server_name) -- default handler (optional)
