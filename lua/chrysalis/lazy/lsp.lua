@@ -32,7 +32,6 @@ return {
 		"terraformls",
 		"ansiblels",
 		"yamlls",
-		"tsserver",
 		"tailwindcss",
 	        "kotlin_language_server"
             },
