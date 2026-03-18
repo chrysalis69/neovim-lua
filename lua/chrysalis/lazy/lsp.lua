@@ -33,7 +33,7 @@ return {
 		"ansiblels",
 		"yamlls",
 		"tsserver",
-		"tailwindcss"
+		"tailwindcss",
 	        "kotlin_language_server"
             },
             handlers = {
