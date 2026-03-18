@@ -31,7 +31,9 @@ return {
                 "gopls",
 		"terraformls",
 		"ansiblels",
-		"yamlls"
+		"yamlls",
+		"tsserver",
+		"tailwindcss"
             },
             handlers = {
                 function(server_name) -- default handler (optional)
